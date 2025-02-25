@@ -10,9 +10,6 @@ export default function Home() {
     <div className="max-h-screen overflow-hidden">
       <LiquidChrome className="absolute top-0 left-0 w-full h-full z-10 opacity-50" />
       <div className="relative min-h-screen text-white bg-black">
-        {/* Vanta.js Background */}
-        {/* <div ref={backgroundRef} className="absolute top-0 left-0 w-full h-full -z-10" /> */}
-
         <Head>
           <title>Profico Academy Landing</title>
           <meta
