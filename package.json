@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroui/react": "^2.7.2",
+    "@types/three": "^0.173.0",
+    "framer-motion": "^12.4.7",
+    "next": "15.1.7",
+    "ogl": "^1.0.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.7"
+    "three": "^0.173.0",
+    "vanta": "^0.5.24"
   },
   "devDependencies": {
     "typescript": "^5",
